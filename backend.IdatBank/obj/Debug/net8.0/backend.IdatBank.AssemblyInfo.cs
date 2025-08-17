@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("backend.IdatBank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26a92d9d166d7eac420dedeee23fdfdbf44fb185")]
 [assembly: System.Reflection.AssemblyProductAttribute("backend.IdatBank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("backend.IdatBank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
