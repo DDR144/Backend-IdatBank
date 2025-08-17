@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\IDAT\\4to Ciclo\\Herramientas de Programa2\\Backend-IdatBank\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D289302E-83DC-44EE-81D4-47C58E66A510}|backend.IdatBank\\backend.IdatBank.csproj|d:\\idat\\4to ciclo\\herramientas de programa2\\backend-idatbank\\backend.idatbank\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D289302E-83DC-44EE-81D4-47C58E66A510}|backend.IdatBank\\backend.IdatBank.csproj|solutionrelative:backend.idatbank\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D289302E-83DC-44EE-81D4-47C58E66A510}|backend.IdatBank\\backend.IdatBank.csproj|d:\\idat\\4to ciclo\\herramientas de programa2\\backend-idatbank\\backend.idatbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D289302E-83DC-44EE-81D4-47C58E66A510}|backend.IdatBank\\backend.IdatBank.csproj|solutionrelative:backend.idatbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D289302E-83DC-44EE-81D4-47C58E66A510}|backend.IdatBank\\backend.IdatBank.csproj|d:\\idat\\4to ciclo\\herramientas de programa2\\backend-idatbank\\backend.idatbank\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D289302E-83DC-44EE-81D4-47C58E66A510}|backend.IdatBank\\backend.IdatBank.csproj|solutionrelative:backend.idatbank\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\IDAT\\4to Ciclo\\Herramientas de Programa2\\Backend-IdatBank\\backend.IdatBank\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend.IdatBank\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\IDAT\\4to Ciclo\\Herramientas de Programa2\\Backend-IdatBank\\backend.IdatBank\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend.IdatBank\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T20:11:43.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IDAT\\4to Ciclo\\Herramientas de Programa2\\Backend-IdatBank\\backend.IdatBank\\Program.cs",
+              "RelativeDocumentMoniker": "backend.IdatBank\\Program.cs",
+              "ToolTip": "D:\\IDAT\\4to Ciclo\\Herramientas de Programa2\\Backend-IdatBank\\backend.IdatBank\\Program.cs",
+              "RelativeToolTip": "backend.IdatBank\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T20:07:27.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "D:\\IDAT\\4to Ciclo\\Herramientas de Programa2\\Backend-IdatBank\\backend.IdatBank\\Models\\Cuenta.cs",
+              "RelativeDocumentMoniker": "backend.IdatBank\\Models\\Cuenta.cs",
+              "ToolTip": "D:\\IDAT\\4to Ciclo\\Herramientas de Programa2\\Backend-IdatBank\\backend.IdatBank\\Models\\Cuenta.cs",
+              "RelativeToolTip": "backend.IdatBank\\Models\\Cuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T20:07:23.997Z"
             }
           ]
         }
