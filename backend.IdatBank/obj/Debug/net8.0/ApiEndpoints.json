@@ -30,5 +30,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend.IdatBank.Controllers.TransferenciasController",
+    "Method": "RealizarTransferencia",
+    "RelativePath": "api/Transferencias",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "backend.IdatBank.Controllers.TransferenciaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

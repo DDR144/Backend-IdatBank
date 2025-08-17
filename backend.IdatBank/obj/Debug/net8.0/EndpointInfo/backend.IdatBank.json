@@ -58,6 +58,37 @@
           }
         }
       }
+    },
+    "/api/Transferencias": {
+      "post": {
+        "tags": [
+          "Transferencias"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransferenciaRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransferenciaRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransferenciaRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -72,6 +103,24 @@
           "claveInternet": {
             "type": "string",
             "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TransferenciaRequest": {
+        "type": "object",
+        "properties": {
+          "cuentaOrigenId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "cuentaDestinoId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "monto": {
+            "type": "number",
+            "format": "double"
           }
         },
         "additionalProperties": false
