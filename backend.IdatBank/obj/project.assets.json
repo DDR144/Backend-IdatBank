@@ -1052,23 +1052,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LUIS\\.nuget\\packages\\": {},
+    "C:\\Users\\didie\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IDAT\\4to Ciclo\\Herramientas de Programa2\\Backend-IdatBank\\backend.IdatBank\\backend.IdatBank.csproj",
+      "projectUniqueName": "C:\\Users\\didie\\Desktop\\ProyectoFinalHerramientas\\backend.IdatBank\\backend.IdatBank\\backend.IdatBank.csproj",
       "projectName": "backend.IdatBank",
-      "projectPath": "D:\\IDAT\\4to Ciclo\\Herramientas de Programa2\\Backend-IdatBank\\backend.IdatBank\\backend.IdatBank.csproj",
-      "packagesPath": "C:\\Users\\LUIS\\.nuget\\packages\\",
-      "outputPath": "D:\\IDAT\\4to Ciclo\\Herramientas de Programa2\\Backend-IdatBank\\backend.IdatBank\\obj\\",
+      "projectPath": "C:\\Users\\didie\\Desktop\\ProyectoFinalHerramientas\\backend.IdatBank\\backend.IdatBank\\backend.IdatBank.csproj",
+      "packagesPath": "C:\\Users\\didie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\didie\\Desktop\\ProyectoFinalHerramientas\\backend.IdatBank\\backend.IdatBank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\LUIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\didie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1077,7 +1077,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1096,7 +1095,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -1134,7 +1133,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
