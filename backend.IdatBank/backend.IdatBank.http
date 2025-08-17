@@ -1,0 +1,6 @@
+@backend.IdatBank_HostAddress = http://localhost:5134
+
+GET {{backend.IdatBank_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

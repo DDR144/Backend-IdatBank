@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backend.IdatBank", "backend.IdatBank\backend.IdatBank.csproj", "{D289302E-83DC-44EE-81D4-47C58E66A510}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D289302E-83DC-44EE-81D4-47C58E66A510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D289302E-83DC-44EE-81D4-47C58E66A510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D289302E-83DC-44EE-81D4-47C58E66A510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D289302E-83DC-44EE-81D4-47C58E66A510}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D01DB91-9D93-45E1-8066-84A0A97D8F63}
+	EndGlobalSection
+EndGlobal
